@@ -1,0 +1,40 @@
+============================================================
+Time  2018/04/13 18:09:39 994 
+============================================================
+[2018/04/13 18:09:39 995] isr_1conn  2088 SYS_MSG_LOAD_CLOUD  
+[2018/04/13 18:09:39 995] isr_1conn  2109 SYS_MSG_REGCB_CLOUD param0 =   msp_status_cb  param1 =  func(73ca0878) 
+[2018/04/13 18:09:39 995] isr_1conn  2109 SYS_MSG_REGCB_CLOUD param0 =   cloud_rslt_cb  param1 =  func(73ca1538) 
+[2018/04/13 18:09:39 996] isr_1conn  2109 SYS_MSG_REGCB_CLOUD param0 =   cloud_err_cb  param1 =  func(73ca1668) 
+[2018/04/13 18:09:39 996] isr_1conn  2109 SYS_MSG_REGCB_CLOUD param0 =   cloud_status_cb  param1 =  func(73ca1728) 
+[2018/04/13 18:09:39 997] isr_1conn  1382 onesoc  
+[2018/04/13 18:09:39 997] isr_1conn  1383 ASR_CLOUD_MSG_SSB  
+[2018/04/13 18:09:39 997] isr_1conn  1398 isr_1conn  cloud_cisr1PdHHBHX7ltoqJZhaamwsuNXmXgC8n  268436457  1428405382  
+[2018/04/13 18:09:39 997] isr_1conn  1466 not login!  
+[2018/04/13 18:09:39 998] isr_1conn  1578 nil  
+[2018/04/13 18:09:39 998] isr_1conn  1647 speex-wb  
+[2018/04/13 18:09:39 998] isr_1conn  1713 once bytes  122  
+[2018/04/13 18:09:39 999] isr_1conn  1734 User set url is   nil  
+[2018/04/13 18:09:39 999] transport  596  paramkvsport is   nil  
+[2018/04/13 18:09:39 999] transport  801  net type:  standard  
+[2018/04/13 18:09:39 999] transport  802  net operator:  def  
+[2018/04/13 18:09:39 999] transport  803  use proxy:  false  
+[2018/04/13 18:09:40 002] network    85   ipfromenv ,  ipcache  dev.voicecloud.cn  def  nil  
+[2018/04/13 18:09:40 002] transport  1033 ns_i =  nil  
+[2018/04/13 18:09:40 193] isr_1conn  1758 ASR_CLOUD_MSG_AUW  6400  1  
+[2018/04/13 18:09:40 302] isr_1conn  288  netperf:  92  
+[2018/04/13 18:09:40 413] isr_1conn  1758 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/04/13 18:09:40 603] isr_1conn  288  netperf:  83  
+[2018/04/13 18:09:40 614] isr_1conn  1758 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/04/13 18:09:40 815] isr_1conn  1758 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/04/13 18:09:40 904] isr_1conn  288  netperf:  74  
+[2018/04/13 18:09:41 016] isr_1conn  1758 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/04/13 18:09:41 206] isr_1conn  288  netperf:  66  
+[2018/04/13 18:09:41 216] isr_1conn  1758 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/04/13 18:09:41 418] isr_1conn  1758 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/04/13 18:09:41 508] isr_1conn  288  netperf:  58  
+[2018/04/13 18:09:41 618] isr_1conn  1758 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/04/13 18:09:41 809] isr_1conn  288  netperf:  49  
+[2018/04/13 18:09:41 819] isr_1conn  1758 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/04/13 18:09:42 020] isr_1conn  1758 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/04/13 18:09:42 110] isr_1conn  288  netperf:  30  
+[2018/04/13 18:09:42 221] isr_1conn  1758 ASR_CLOUD_MSG_AUW  6400  2  
